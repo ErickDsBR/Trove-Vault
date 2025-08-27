@@ -12,15 +12,22 @@ header{
     gap: 40px;
 
 }
-.navbar i {
+#navbar{
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+
+
+}
+#navbar i {
     color:#ffed00 ;
     font-size: 25px;
     padding: 25px;
 
 
 }
-.navbar{
-    justify-content: space-between;
+#navbar li{
 
 
 }
